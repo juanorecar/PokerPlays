@@ -21,7 +21,7 @@ Este proyecto tiene como objetivo desarrollar un sistema automatizado para detec
 pip install opencv-python numpy
 ```
 
-##Uso
+## Uso
 
 1. Coloca las imágenes de las cartas en la carpeta `images`.
 
@@ -33,7 +33,7 @@ python main.py
 
 3. **Observa las cartas detectadas en la imagen de prueba `images_test/cartas.jpg`.**
 
-##Detalles Técnicos
+## Detalles Técnicos
 
 El proceso de detección de cartas se realiza en varios pasos:
 
