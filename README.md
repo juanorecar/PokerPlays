@@ -12,7 +12,7 @@ Este proyecto tiene como objetivo desarrollar un sistema automatizado para detec
 1. **Clonar el repositorio:**
 
     ```bash
-    git clone https://github.com/tu_usuario/reconocimiento-cartas-poker.git
+    git clone https://github.com/juanorecar/PokerPlays
     ```
 
 2. **Instala las dependencias:**
